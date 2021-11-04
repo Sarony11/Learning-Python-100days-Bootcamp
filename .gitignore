@@ -1,5 +1,5 @@
 # Ignore virtual python environments
-*venv*
+*.pythonvenv*
 
 #Ignore workspace config file
 workspace.code-workspace

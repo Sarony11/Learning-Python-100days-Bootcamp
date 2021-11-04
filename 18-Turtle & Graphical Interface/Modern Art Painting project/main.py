@@ -1,4 +1,4 @@
 import colorgram
 
-color = colorgram(damien_hirst_painting.jpg)
+color = colorgram.extract('18-Turtle & Graphical Interface/Modern Art Painting project/image.jpg', 10)
 print(color)
